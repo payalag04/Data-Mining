@@ -17,3 +17,14 @@
 
 
 ![image](https://github.com/payalag04/Data-Mining/assets/64680668/a15b5201-a41a-42cd-8383-a0f0c1cbb822)
+
+
+4) GMM model
+
+
+![image](https://github.com/payalag04/Data-Mining/assets/64680668/2803fe74-5861-4474-82f2-317055bbcf44)
+
+
+![image](https://github.com/payalag04/Data-Mining/assets/64680668/d9c22778-ab21-4914-b11c-ad73cd1299ff)
+
+
